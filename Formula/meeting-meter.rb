@@ -5,8 +5,8 @@ class MeetingMeter < Formula
 
   on_macos do
     if Hardware::CPU.arm?
-      url "https://github.com/josh-spratt/meeting-meter/releases/download/v0.2.6/meeting-meter-macOS"
-      sha256 "d63c6234d5b2a6c28229e0a5973525df37feb022514259ef21768d349359eb31"
+      url "https://github.com/josh-spratt/meeting-meter/releases/download/v0.2.7/meeting-meter-macOS"
+      sha256 "55b33b45e32b0996a4d2a3f23f0dec3c67e4316c4c504c5d43b9949539e53e94"
     end
   end
 
