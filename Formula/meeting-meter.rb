@@ -1,7 +1,7 @@
 class MeetingMeter < Formula
   desc "CLI to measure and analyze meeting time"
   homepage "https://github.com/josh-spratt/meeting-meter"
-  version "0.3.0"
+  version "0.4.0"
 
   on_macos do
     if Hardware::CPU.arm?
